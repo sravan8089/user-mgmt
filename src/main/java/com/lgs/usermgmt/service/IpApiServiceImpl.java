@@ -1,6 +1,7 @@
-package com.lgs.usermgmt.integration;
+package com.lgs.usermgmt.service;
 
 import com.lgs.usermgmt.model.IpApiResponse;
+import com.lgs.usermgmt.service.IpApiService;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
@@ -9,7 +10,7 @@ import org.springframework.web.client.RestTemplate;
 
 @Service
 @Slf4j
-public class IpApiServiceImpl implements IpApiService{
+public class IpApiServiceImpl implements IpApiService {
     @Autowired
     private RestTemplate restTemplate;
 

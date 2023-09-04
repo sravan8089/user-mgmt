@@ -1,6 +1,6 @@
 package com.lgs.usermgmt.service.validator;
 
-import com.lgs.usermgmt.integration.IpApiService;
+import com.lgs.usermgmt.service.IpApiService;
 import com.lgs.usermgmt.model.IpApiResponse;
 import com.lgs.usermgmt.model.UserRegistrationRequest;
 import lombok.extern.slf4j.Slf4j;

@@ -1,4 +1,4 @@
-package com.lgs.usermgmt.integration;
+package com.lgs.usermgmt.service;
 
 import com.lgs.usermgmt.model.IpApiResponse;
 
