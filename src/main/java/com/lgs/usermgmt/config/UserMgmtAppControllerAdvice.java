@@ -1,4 +1,4 @@
-package com.lgs.usermgmt;
+package com.lgs.usermgmt.config;
 
 import com.lgs.usermgmt.model.ErrorResponse;
 import lombok.extern.slf4j.Slf4j;
