@@ -1,0 +1,6 @@
+    Generational ZGC [JEP-439]
+    Pattern Matching for switch [JEP-441]
+    Foreign Function & Memory API (Third Preview) [JEP-442]
+    Vector API (Sixth Incubator) [JEP-448]
+    Deprecate the Windows 32-bit x86 Port for Removal [JEP-449]
+    Prepare to Disallow the Dynamic Loading of Agents [JEP-451]

@@ -1,7 +1,0 @@
-CREATE TABLE USERS (
-  USER_ID varchar(36) PRIMARY KEY,
-  USERNAME varchar(25) NOT NULL,
-  IP_ADDRESS varchar(15) NOT NULL,
-  PASSWORD varchar(256) NOT NULL,
-  CITY varchar(100) NOT NULL
-);
