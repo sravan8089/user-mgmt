@@ -12,7 +12,7 @@ public class Main {
     System.out.println(myInner.y);
   }
 }
-
+// added Fibonacci sequence
 
     class FibonacciExample1{  
     public static void main(String args[])  
